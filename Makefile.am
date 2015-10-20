@@ -8,3 +8,5 @@ LDFLAGS =
 # the previous manual Makefile
 bin_PROGRAMS = CuteDSCapture
 CuteDSCapture_SOURCES = main.cpp dscapture.h dscapture.c
+
+EXTRA_DIST = README.md 95-dscapture.rules
