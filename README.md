@@ -10,8 +10,8 @@ Install SFML and the SFML-headers (libsfml-dev or similar) as well as libusb-1.0
 
 Start CuteDSCapture. You can autoresize the window with 1-0 (1x, 1.5x, 2x,... original size). Press the spacebar to toggel window split.
 
-If CuteDSCapture doesn't detect your 3DS and you are using linux, ```copy 95-dscapture.rules``` to /etc/udev/rules.d and reload udev-rules with ```udevadm control --reload-rules```.
+If CuteDSCapture doesn't detect your DS and you are using linux, ```copy 95-dscapture.rules``` to /etc/udev/rules.d and reload udev-rules with ```udevadm control --reload-rules```.
 
 # Why "Cute" DS Capture?
 
-It was a play on words when I first tried to design a capture software for 3DS with Qt (which is prononced "cute"). Although I didn't say with Qt, I liked the name.
+It was a play on words when I first tried to design a capture software for DS with Qt (which is prononced "cute"). Although I didn't say with Qt, I liked the name.
