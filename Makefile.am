@@ -13,4 +13,4 @@ if STATIC
 LDADD = @staticsfmldir@/libsfml-graphics-s.a @staticsfmldir@/libsfml-window-s.a @staticsfmldir@/libsfml-system-s.a
 endif
 
-EXTRA_DIST = README.md 95-dscapture.rules
+EXTRA_DIST = README.md 95-dscapture.rules CuteDSCapture.png CuteDSCapture.desktop
